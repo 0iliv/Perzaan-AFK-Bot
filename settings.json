@@ -8,7 +8,7 @@
   "server": {
     "ip": "VoiceChat-q65k.aternos.me:17188",
     "port": 17188,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
