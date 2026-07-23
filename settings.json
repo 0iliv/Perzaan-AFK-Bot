@@ -1,20 +1,20 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Afkbot24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "VoiceChat-q65k.aternos.me",
+    "port": 17188,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -11,
+    "y": 64,
+    "z": 35
   },
   "utils": {
     "auto-auth": {
